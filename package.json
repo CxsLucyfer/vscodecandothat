@@ -12,7 +12,7 @@
   "dependencies": {
     "node-sass": "^4.14.1",
     "sass-loader": "^6.0.7",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vuex": "^3.6.2",
     "xml-webpack-plugin": "0.0.2"
   },
